@@ -7,5 +7,9 @@
    ✔[Sanidhya Mishra](https://github.com/Sanidhya-Mishra)-Game Sound Design and Implementation</br>
    ✔[Pratyush Gawali](https://github.com/Pratyush-2293)- Game Design and Development</br> 
    ✔[Dhruv Bhardwaj](https://github.com/dhruv23099)- Research for the Project </br>
+   
+ -> Video demonstrating the project - [Let's talk about Glade Trail](https://youtu.be/CCFRsXbVngk)</br>
+ 
+ 
 ![Preview of the game](https://user-images.githubusercontent.com/117259135/206747804-b6356761-0c32-422d-9dd0-69d359e8a5bb.png) </br>
 
